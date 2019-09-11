@@ -1,0 +1,3 @@
+medvjed:bear
+zmija:snake
+zec:bunny
